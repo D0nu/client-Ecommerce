@@ -1,7 +1,7 @@
 import Hero from "../components/Hero"
 import Message from "@/components/Message"
 import Features from "@/components/Features"
-import Information from "@/components/information"
+import Information from "@/components/Information"
 
 function Home() {
   return (
