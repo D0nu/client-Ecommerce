@@ -2,12 +2,12 @@
   "name": "client",
   "version": "1.0.0",
  "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   },
   "description": "",
   "scripts": {
     "dev": "vite",
-    "build": "npx --yes vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "keywords": [],
